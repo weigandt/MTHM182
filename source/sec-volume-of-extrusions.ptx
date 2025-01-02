@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-volume-of-extrusions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Volume of Extruded Solids</title>
+
+  <p> An extrustion is a solid with the property that every cross section taken along one axis has the same shape. Prisms and cylinders are examples of extrusions. Sometimes an extrusion is refered to simply as a cylinder for simplicity.
+  We have a formula for the volume of an extrusion, namely  
+  <men> \text{Volume} = \left( \text{Area of Base} \right ) \times \text{height}</men>
+  </p>
+
+  <p> Provisional location to add a picture of 80-20 extruded aluminum</p>
+
+  <p> A rectangular prism is a very special case of an extruded solid. The base of a rectangular prism has an area equal to its width times its length. So our equation becomes the familiar
+  <men> V = l \cdot w \cdot h </men>
+  </p>
+  <p>
+    <sage>
+    <input> 2 + 2</input>
+    </sage>
+  </p>
+</section>

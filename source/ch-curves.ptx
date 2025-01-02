@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-curves" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Curves and their Parametrizations</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <!-- <xi:include href="sec-section-name.ptx" />  --> 
+  <section>
+    <title> Parametrizations of curves </title> 
+  </section>
+  <section>
+    <title> Polar coordinates </title>
+    <p> Some stuff about polar coordinates. </p>
+  </section>
+
+</chapter>

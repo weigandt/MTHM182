@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-warmup" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Review of Calculus I</title>
+
+  <introduction>
+    <p> This chapter contains material that is typiclaly treated in a first semester Calculus course. 
+    Students in Calculus II should be comfortable with this material going into the course, 
+    but may need to go over this material if they have had a long break or a did not see it in thier 
+    first calculus course. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <section>
+    <title> Functions </title>
+  </section>
+  <section>
+    <title> Properties of Logarithms </title>
+  </section>
+
+</chapter>

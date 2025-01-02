@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-techniques" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Integration Techniques</title>
+
+  <introduction>
+    <p> This chapter concerns techniques for finding antiderivatives for functions. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <section xml:id="sec-direct-substitution">
+    <title>The Direct Substitution Rule</title>
+    
+  </section>
+  <section xml:id="sec-integration-by-parts">
+    <title>Integration by Parts</title>
+    
+  </section>
+  <section xml:id="sec-trigonometric-integrals">
+    <title>Trigonometric Integrals</title>
+    
+  </section>
+  <section xml:id="sec-trigonometric-substitution">
+    <title> Inverse Trigonometric Substitutions </title>
+    
+  </section>
+  <section xml:id="sec-partial-fraction-decomposition">
+    <title>Integration by Partial Fraction Decomposition</title>
+    
+  </section>
+
+</chapter>

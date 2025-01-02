@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-applications" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Applications of the Definite Integral</title>
+
+  <introduction>
+    <p> This chapter concerns applications of the definite integral. In particuluar we will discuss how integration helps us compute areas, volumes, lengths of curves, surface areas, work, and other important quantities. </p>
+  </introduction>
+
+  <section xml:id="sec-area">
+    <title>Area</title>
+    
+  </section>
+
+  <section xml:id="sec-volume">
+    <title>Volume</title>
+    
+      <subsection xml:id="sec-discs-and-washers">
+          <title>The Method of Discs and Washers</title>
+    
+      </subsection>
+
+      <subsection xml:id="sec-shell-method">
+          <title>The Method of Cylindrical Shells</title>
+      </subsection>
+  </section>
+
+
+</chapter>

@@ -4,16 +4,21 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+  <book xml:id="calc2">
+    <title>MTHM 182</title>
+    <subtitle>Notes for Calculus II</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
-
+    <!-- <xi:include href="./ch-chapter-title.ptx" /> -->
+    <xi:include href="./ch-warmup.ptx"/>
+    <xi:include href="./ch-techniques.ptx"/>
+    <xi:include href="./ch-applications.ptx"/>
+    <xi:include href="./ch-improper-limits.ptx"/>
+    <xi:include href="./ch-curves.ptx"/>
+    <xi:include href="./ch-series.ptx"/> 
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

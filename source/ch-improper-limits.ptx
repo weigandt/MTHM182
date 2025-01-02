@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-improper-limits" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Improper Limits</title>
+
+  <introduction>
+    <p> This chapter concerns indeterminant forms, L'Hospital's Rule, Improper integrals, and the limits of sequences. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <section xml:id="sec-indeterminant-forms">
+    <title>Indeterminant Forms</title>
+    
+  </section>
+  <section xml:id="sec-exponential-indeterminant-forms">
+    <title>Exponential Indeterminant Forms</title>
+    
+  </section>
+  <section xml:id="sec-limits-for-sequences">
+    <title>Limits for Sequences</title>
+    
+  </section>
+  <section xml:id="sec-improper-integrals">
+    <title>Impropert Integrals</title>
+    
+  </section>
+</chapter>
