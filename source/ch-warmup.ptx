@@ -1,13 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-warmup" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Review of Calculus I</title>
+  <title>Introduction and Review of Prerequiste Material</title>
 
   <introduction>
-    <p> This chapter contains material that is typiclaly treated in a first semester Calculus course. 
+    <p> 
+    These notes will be used to guide our discussion for the course MTHM 182 at Lorain County Community College.
+    The title of this course is Calculus II. The course is designed to follow the State of Ohio's OT36 course outcomes for TMM006: Calculus II.
+    </p>
+    <p>
+    The content of this course includes: 
+    <ul>
+      <li>
+        <p>
+          Evaluating definite integrals using techniques such as
+          <ul>
+            <li>
+              <p>
+                Direct substitutions,
+              </p>
+            </li>
+            <li>
+              <p>
+                Integration by parts,
+              </p>
+            </li>
+            <li>
+              <p>
+                Inverse trigonometic substitutions, and 
+              </p>
+            </li>
+            <li>
+              <p>
+                Partial fraction decomposition.
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          Applications of Riemann sums and definite integrals to find
+          <ul>
+            <li>
+              <p>
+                Areas
+              </p>
+            </li>
+            <li>
+              <p>
+                Volumes
+              </p>
+            </li>
+            <li>
+              <p>
+                Work
+              </p>
+            </li>
+            <li>
+              <p>
+                Average values of funtions
+              </p>
+            </li>
+            <li>
+              <p>
+                Lengths of curves
+              </p>
+            </li>
+            <li>
+              <p>
+                Surface areas
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          Topics Related to Infinity:
+          <ul>
+            <li>
+              <p>
+                Indeterminant forms and L'Hôpital's Rule
+              </p>
+            </li>
+            <li>
+              <p>
+                Improper Integrals
+              </p>
+            </li>
+            <li>
+              <p>
+                Convergence or Divergence of Sequences
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          Convergence and Di
+        </p>
+      </li>
+    </ul>
+    
+    analysis of series with comparison, ratio, root, integral, and alternating series tests; power series, representation of functions 
+    by power series, and Taylor polynomials; and analysis of curves described parametrically, or in polar form.
+
+    This chapter contains material that is typiclaly treated in a first semester Calculus course. 
     Students in Calculus II should be comfortable with this material going into the course, 
     but may need to go over this material if they have had a long break or a did not see it in thier 
-    first calculus course. </p>
+    first calculus course. 
+    
+    </p>
   </introduction>
 
   <!-- include sections -->
