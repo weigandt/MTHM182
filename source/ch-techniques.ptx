@@ -28,5 +28,23 @@
     <title>Integration by Partial Fraction Decomposition</title>
     
   </section>
+  <section xml:id="sec-techniques-tasks">
+    <title> OT36 Reccommended Tasks: </title>
+    <p>
+      This section lays out tasks students will be expected to perform throughout the semester. These are taken from the reccomendations from the Ohio Transfer 36 guidelines.
+    </p>
+    <ol>
+      <li> Relate the benefits of a well chosen substition. </li>
+      <li> Criticise a poorly chosen substition and predict its ineffectiveness.</li>
+      <li> Identify algebraic hurdles within integrands.</li>
+      <li> Speculate about the types of techniques appropriate to overcome identified hurdles.</li>
+      <li> Forcast a series of steps to follow and the outcomes you expect. </li>
+      <li> Choose appropraite integration techniques and apply them with correct logical thinking </li>
+      <li> Classify types of integrands according to appropriate techniques. </li>
+      <li> Illustrate the application of integration by parts. </li>
+      <li> Demonstate an application of trigonometric substition. </li>
+      <li> Explian an application of partial fraction decomposition. </li>
+    </ol>
+  </section>
 
 </chapter>
