@@ -99,18 +99,58 @@
       </li>
       <li>
         <p>
-          Convergence and Di
+          Analysis of curves in polar and parametric forms.
         </p>
       </li>
+      <li>
+        <p>
+          Convergence and Divergence of series
+        </p>
+        <ul>
+          <li>
+            <p>
+              Comparison tests,
+            </p>
+          </li>
+          <li>
+            <p>
+              The integral test,
+            </p>
+          </li>
+          <li>
+            <p>
+              Alternating Series Test,
+            </p>
+          </li>
+          <li>
+            <p>
+              The root and ratio tests,
+            </p>
+          </li>
+          <li>
+            <p>
+              Power series, and 
+            </p>
+          </li>
+          <li>
+            <p>
+              Taylor and MacLaurin series.
+            </p>
+          </li>
+        </ul>
+      </li>
     </ul>
-    
-    analysis of series with comparison, ratio, root, integral, and alternating series tests; power series, representation of functions 
-    by power series, and Taylor polynomials; and analysis of curves described parametrically, or in polar form.
+ 
+    MTHM 182 will be broken up into 5 sections, corresponding roughly to the categories listed above. If this list above is intidating, that is okay,
+    this is a summary of the things we are going to learn this semester. I have tried to break this material intro five chapters. Chapters 2 - 6 of these notes should
+    correspond to the five midterm examinations we will have in this course.
 
-    This chapter contains material that is typiclaly treated in a first semester Calculus course. 
-    Students in Calculus II should be comfortable with this material going into the course, 
-    but may need to go over this material if they have had a long break or a did not see it in thier 
-    first calculus course. 
+    The remainder of this Chapter (Chapter 1) will cover some prerequistive material. Students should be reasonably comfortable with this material, but may need to update their
+    understanding of some topics. It is also possible that I will write things in a way slighly different than you are used to, please feel confident
+    to ask any questions about this, such questions are likely to help everybody.
+
+
+  
     
     </p>
   </introduction>
@@ -118,6 +158,41 @@
   <!-- include sections -->
   <section>
     <title> Functions </title>
+    <p>This is a reminder about functions.</p>
+      <definition xml:id="def-function">
+          <notation>
+            <usage><m>f</m></usage> 
+            <description>A function</description>
+          </notation>
+          <notation>
+            <usage><m>f(x)</m>></usage>
+            <description>The output of the function <m>f</m> performed on an input <m>x</m>. Typically we think of <m>x</m> as a real number. </description>
+          </notation>
+          <notation>
+            <usage><m>\Bbb R</m></usage>
+            <description>The set of real numbers.</description>
+          </notation>
+        <statement>
+          <p>
+            A <term> function </term>, <m> f</m> is set rule for producing outputs from inputs. That is to say, 
+            a function <m> f</m> is a rule that assigns a unique output <m> f(x) </m> to an input <m> x</m>. 
+          </p>
+          <p>
+            The <term> domain </term> of the function <m> f </m> is the set whose elements are those input values <m> x </m> for which the 
+            output <m> f(x) </m> of the function is clearly defined. The <term> codomain </term> of <m>f</m> is a set that contains the output <m>f(x)</m>
+            for every single input <m>x</m> in the domain of <m>f</m>. 
+          </p>
+          <p>
+          We often take the codomian of a funciton <m>f</m> to be the set <m>\Bbb R</m> of real numbers. We are often given a function <m>f</m> as a <term>partial funciton</term> 
+          where the rule describing the function is given by an equation for <m>f(x)</m> in terms of <m>x</m> and the domain of <m>f</m> is understood to be the set of real numbers <m>x</m> for which the formula makes sense.
+          </p>
+        </statement>
+      </definition>
+      <remark>
+        <p>
+          The set of all outputs of the function <m>f</m> is called the <term>range</term> of <m>f</m>. This set can be smaller than the codomain and is sually harder to understand. 
+        </p>
+      </remark>
   </section>
   <section>
     <title> Properties of Logarithms </title>
